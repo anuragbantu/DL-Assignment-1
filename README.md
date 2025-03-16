@@ -1,5 +1,7 @@
 # DL-Assignment-1
 
+Please refer to Assignment-1.ipynb for the detailed code of this assignment.
+
 # Fashion MNIST Classification
 
 ## Project Overview
