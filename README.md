@@ -29,8 +29,8 @@ Set all the possible values for the different parameters to be tested as shown b
 
 The parameter values to be tested:
 
-Epochs: 5, 10, 15
-Number of Hidden Layers: 3, 4, 5
+- Epochs: 5, 10, 15
+- Number of Hidden Layers: 3, 4, 5
 Fully Connected Layer Size: 32, 64, 128
 Weight Decay: 0, 0.0005, 0.005, 0.05, 0.5
 Learning Rate: 0.001, 0.0001, 0.00001
