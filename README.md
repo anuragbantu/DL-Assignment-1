@@ -31,13 +31,13 @@ The parameter values to be tested:
 
 - Epochs: 5, 10, 15
 - Number of Hidden Layers: 3, 4, 5
-Fully Connected Layer Size: 32, 64, 128
-Weight Decay: 0, 0.0005, 0.005, 0.05, 0.5
-Learning Rate: 0.001, 0.0001, 0.00001
-Optimizer: SGD, Momentum, Nesterov, RMSprop, Adam, Nadam
-Batch Size: 16, 32, 64
-Weight Initialization: Random, Xavier
-Activation Function: Sigmoid, Tanh, ReLU
+- Fully Connected Layer Size: 32, 64, 128
+- Weight Decay: 0, 0.0005, 0.005, 0.05, 0.5
+- Learning Rate: 0.001, 0.0001, 0.00001
+- Optimizer: SGD, Momentum, Nesterov, RMSprop, Adam, Nadam
+- Batch Size: 16, 32, 64
+- Weight Initialization: Random, Xavier
+- Activation Function: Sigmoid, Tanh, ReLU
 
 Define the train_network function that first creates the neural network with the set configurations and then implements the training through forward and backword propagation. Evaluate the performance of the model during training (train and validation accuracy) and then after training (test accuracy). Cross entropy loss is also calculated at each step.
 
