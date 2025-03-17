@@ -25,7 +25,13 @@ Ensure you have the necessary dependencies installed before running the notebook
 The dataset is loaded and preprocessed by normalizing pixel values and reshaping the images to fit the input format expected by the model.
 
 ### 2. Define layer class
-Create a layer class that includes all the optimization techniques, the forward propagation and backward propagation algorithms.
+Create a layer class that includes all the optimization techniques, the forward propagation and backward propagation algorithms. The following optimization techniques are used:
+- SGD – Stochastic Gradient Descent
+- Momentum – SGD with Momentum
+- Nesterov – Nesterov Accelerated Gradient (NAG)
+- RMSprop – Root Mean Square Propagation
+- Adam – Adaptive Moment Estimation
+- Nadam – Nesterov-accelerated Adaptive Moment Estimation
 
 ### 3. Configure wandb and implement the train network function
 Set all the possible values for the different parameters to be tested as shown below and the method to be used for the sweep search. 
