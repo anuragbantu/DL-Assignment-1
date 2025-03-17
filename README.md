@@ -59,4 +59,6 @@ We now use squared error loss instead of cross entropy loss to do similar sweep 
 ### 6. Recommendations for MNIST dataset
 We select 3 of the best performing and varied models to perform classification on another dataset which is the MNIST (Not Fashion MNIST) dataset. We analyze the performance of these models on this dataset.
 
-For detailed analysis of the performance of the models, refer to the wandb report: https://wandb.ai/ma24m003-iit-madras/neural-network-hyperparam-tuning/reports/Anurag-Bantu-s-DA6401-Assignment-1--VmlldzoxMTc3OTExMQ
+Github link: 
+
+For detailed analysis of the performance of the models, refer to the wandb report: [https://wandb.ai/ma24m003-iit-madras/neural-network-hyperparam-tuning/reports/Anurag-Bantu-s-DA6401-Assignment-1--VmlldzoxMTc3OTExMQ](https://api.wandb.ai/links/ma24m003-iit-madras/oa7hy02j)
