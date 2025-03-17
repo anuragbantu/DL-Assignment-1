@@ -2,6 +2,9 @@
 
 Please refer to Assignment-1.ipynb for the detailed code of this assignment.
 
+Name: Anurag Bantu
+Roll no: MA24M003
+
 # Fashion MNIST Classification
 
 ## Project Overview
