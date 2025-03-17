@@ -26,7 +26,7 @@ The dataset is loaded and preprocessed by normalizing pixel values and reshaping
 
 ### 2. Define layer class
 Create a layer class that includes all the optimization techniques, the forward propagation and backward propagation algorithms. The following optimization techniques are used:
-- SGD – Stochastic Gradient Descent
+- SGD – Simple Gradient Descent
 - Momentum – SGD with Momentum
 - Nesterov – Nesterov Accelerated Gradient (NAG)
 - RMSprop – Root Mean Square Propagation
