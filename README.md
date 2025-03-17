@@ -5,7 +5,7 @@ Please refer to Assignment-1.ipynb for the detailed code of this assignment.
 # Fashion MNIST Classification
 
 ## Project Overview
-This project focuses on classifying images from the Fashion MNIST dataset using deep learning. The dataset consists of grayscale images of 10 different clothing categories. The neural networks are created from scratch mostly using only numpy and pandas and are trained on labeled image data to recognize clothing items accurately.
+This project focuses on classifying images from the Fashion MNIST dataset using deep learning. The dataset consists of grayscale images of 10 different clothing categories. The neural networks are created from scratch mostly using only numpy for all matrix/vector operations without using any automatic differentiation packages and are trained on labeled image data to recognize clothing items accurately.
 
 ## Dataset
 The Fashion MNIST dataset is an alternative to the classic MNIST dataset and contains:
